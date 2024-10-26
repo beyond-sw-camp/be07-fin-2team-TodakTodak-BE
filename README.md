@@ -71,8 +71,10 @@
 [화면설계서 Figma](https://www.figma.com/design/LygEmOzP9B5OG2LeJaovWu/%ED%8C%8C%EB%8B%A5-%ED%86%A0%EB%8B%A5?m=auto&t=D2AX8VoOhmvfXPpt-1)
 
 ## WBS
-
 [WBS 보기](https://docs.google.com/spreadsheets/d/1KvGes7VoAUZ5n1yTgJPjqTy6yM1p0UnXIsdpnDRksQU/edit?usp=sharing)
+
+## 이슈관리
+[이슈관리테이블](https://www.notion.so/1519ac23d39542d0a648795a5c53172b?v=7cc0480300c34da38907a02f9bcb67e1&pvs=4)
 
 ## ERD
 ### 전체 ERD
